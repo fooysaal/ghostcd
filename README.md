@@ -12,8 +12,8 @@
 
 <!-- Add your demo video here -->
 <!-- Replace the line below with your actual webm/gif -->
-> 📹 **Demo** — _add your screen recording here_
-> `![GhostCD Demo](demo.webm)`
+> 📹 **Ghostcd Demo**
+> `![Demo](Demo/demo.gif)`
 
 </div>
 
