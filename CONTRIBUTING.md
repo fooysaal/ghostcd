@@ -19,7 +19,7 @@ GhostCD is a small but sharp tool. Contributions that keep it fast, clean, and n
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ghostcd.git
+git clone https://github.com/fooysaal/ghostcd.git
 cd ghostcd
 
 # Test your changes by sourcing directly

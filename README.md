@@ -80,7 +80,7 @@ No pip packages. No compiled binaries. No root access needed.
 ### Option A — One-liner (recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ghostcd.git ~/ghostcd
+git clone https://github.com/fooysaal/ghostcd.git ~/ghostcd
 cd ~/ghostcd && bash install.sh
 ```
 
@@ -88,7 +88,7 @@ cd ~/ghostcd && bash install.sh
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/ghostcd.git ~/ghostcd
+git clone https://github.com/fooysaal/ghostcd.git ~/ghostcd
 
 # 2. Add to your shell config manually
 
